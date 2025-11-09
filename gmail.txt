@@ -1,0 +1,8 @@
+MAIL FROM:<user@example.com>
+HELO example.com
+RCPT TO:<someone@example.com>
+DATA
+Subject: Test
+This is body.
+.
+QUIT
